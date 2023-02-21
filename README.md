@@ -2,10 +2,10 @@
 
 ## I’m Ravi Dev Pandey
 ### Sophomore, IIT Varanasi
-<p>👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter</p>
-<p>🌱 I’m currently learning Flutter along with React</p>
-<p>💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React</p>
-<p>📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a></p>
+👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter<br>
+🌱 I’m currently learning Flutter along with React<br>
+💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React<br>
+📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=literalEval&theme=github-dark"></p>
 
