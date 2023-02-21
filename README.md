@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## <p align="center"> Hey There !!! 👋 I’m Ravi Dev Pandey </p>
-### <p align="center"> Sophomore, IIT Varanasi </p>
-<p align="center"> 👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter </p>
-<p align="center"> 🌱 I’m currently learning Flutter along with React </p>
-<p align="center"> 💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React </p>
-<p align="center"> 📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a> </p>
+## I’m Ravi Dev Pandey
+### Sophomore, IIT Varanasi
+👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter
+🌱 I’m currently learning Flutter along with React
+💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React
+📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=literalEval&theme=github-dark"></p>
 
