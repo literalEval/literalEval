@@ -3,7 +3,7 @@
 ## I’m Ravi Dev Pandey
 ### Sophomore, IIT Varanasi
 👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter<br>
-🌱 I’m currently learning Flutter along with React<br>
+🌱 I’m currently working on Flutter along with GraphQL, MongoDB<br>
 💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React<br>
 📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a><br>
 
