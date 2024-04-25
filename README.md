@@ -9,8 +9,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=literalEval&theme=github-dark"></p>
 
+<!---
 ## <p align="center">My OpenSource Contribution Graph</p>
 [![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=literalEval&theme=react-dark)](https://github.com/literalEval)
+--->
 
 ## My GitHub Stats
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=literalEval&show_icons=true&theme=github_dark&hide_border=true)
