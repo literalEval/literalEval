@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## I’m Ravi Dev Pandey
-### Senior Year, IIT Varanasi
-👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter<br>
-🌱 I’m currently working on Flutter along with GraphQL, MongoDB<br>
-💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter or React<br>
+### IIT (BHU), Varanasi
+👀 I’m interested in Web Dev, Desktop Dev with Qt, Flutter, and low level system programming<br>
+🌱 I’m currently working on Flutter along with GraphQL, MongoDB, Rust, Python<br>
+💞️ I’m looking to collaborate on any type of app built upon Qt, Flutter, React, or Rust<br>
 📫 How to reach me: <a href="mailto:pandeyravidev@gmail.com">pandeyravidev@gmail.com</a><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=literalEval&theme=github-dark"></p>
